@@ -86,7 +86,6 @@ id ="button">
 </body> 
 </html>
 
----------------------------------------------------
 Comment:This another code will be on your 
 separate file.css
 👇
